@@ -1,0 +1,6 @@
+{
+  "name": "CampusRecruit - Student Placement Management System",
+  "description": "Enterprise-grade campus placement and recruitment portal connecting students, placement cell (TPO), recruiters, and faculty with eligibility validation, drive management, and placement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
